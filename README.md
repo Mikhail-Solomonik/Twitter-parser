@@ -1,2 +1,2 @@
 # Twitter-parser
-Парсер твиттера, который я использую для сбора данных для диплома
+The twitter parser I used to collect data for my graduation project
